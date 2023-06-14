@@ -1,0 +1,14 @@
+
+.banner{
+[
+    background-color: #4dd2ff;
+    height:200px;
+    width:100%;
+    }
+
+.banner-text{
+top:50%;
+left:50%;
+position: absolute;
+transform:transform;
+}
